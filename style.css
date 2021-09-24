@@ -1,0 +1,17 @@
+body {
+color:white;
+background-color:black;
+font-family:'Times New Roman', Times, serif;
+text-shadow:5px 5px 5px red;
+}
+.copyrightfooter{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+font-size:30px;
+text-shadow:5px 5px 5px red;
+}
+.Topic {
+text-shadow:5px 5px 5px red;
+}
